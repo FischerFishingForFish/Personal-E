@@ -1,0 +1,1293 @@
+fileFormatVersion: 2
+guid: fae93ffa1503fb5428675ac92c0f581a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 33
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311f29abf6bdd3f4082f483a9d62c990
+      internalID: 189496193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 32
+        width: 63
+        height: 43
+      alignment: 9
+      pivot: {x: -1.4484032, y: 0.76110244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bd6cea6e0918f48807ca20def1627c
+      internalID: 678847961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 35
+        width: 58
+        height: 45
+      alignment: 9
+      pivot: {x: 0.6146561, y: 0.74629813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea4a206e75bdf54b8b895adb93b000c
+      internalID: 1900422725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 40
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dc41480eb7a1c4299da3c5224897f3
+      internalID: 193820555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 39
+        width: 54
+        height: 44
+      alignment: 9
+      pivot: {x: -2.9579775, y: 0.94541085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add20d22478fc69478cbc44ac9268b33
+      internalID: -31020663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 63
+        width: 61
+        height: 49
+      alignment: 9
+      pivot: {x: -2.957977, y: 1.5597725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3656cd693585b4992737eed1f9d510
+      internalID: 523620281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 46
+        width: 54
+        height: 52
+      alignment: 9
+      pivot: {x: -5.6611686, y: 0.63822937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da51094f37059ce489144452b6733e7f
+      internalID: -934511607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 35
+        width: 64
+        height: 49
+      alignment: 9
+      pivot: {x: 0.7821234, y: 0.84635496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577fdaec5f7a8b24baeb32458e374c45
+      internalID: 1097590523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 391
+        width: 30
+        height: 7
+      alignment: 9
+      pivot: {x: -8.346805, y: 0.49999917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cdd2499179eed439a772e870a5f19e
+      internalID: 1426646728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 387
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381d7cbf2f554cb48930a35ec36e45ff
+      internalID: 505278857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 283
+        width: 61
+        height: 46
+      alignment: 9
+      pivot: {x: 0.6022832, y: 0.6789966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72c4156a0f7a03449a1789533b2d154
+      internalID: -1437226930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 283
+        width: 61
+        height: 48
+      alignment: 9
+      pivot: {x: -0.045511276, y: 0.85799325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dca279c8567484bb6c912286cabb15
+      internalID: -1115473190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 285
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce19f8bde5f916d40b58caebfb0e613b
+      internalID: 1262054333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 287
+        width: 58
+        height: 48
+      alignment: 9
+      pivot: {x: 0.48295328, y: 0.6640803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c2d16d4a79c524b9cd8d9626aa2613
+      internalID: 1685676886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 287
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587ce2cc8ad7c0f499d1b9da83741bce
+      internalID: 163556196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 289
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569d4691b6f03c742b2df8f035a8205a
+      internalID: 502540131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 324
+        width: 63
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db46d0b8ee6949c4d8f43a9919697973
+      internalID: 1498713695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 305
+        width: 53
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5810558, y: 0.6879463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecf06383f82833448b421509e21fb2f
+      internalID: 184049392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 292
+        width: 62
+        height: 43
+      alignment: 9
+      pivot: {x: 0.55196846, y: 0.6248815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af82797aa242a744bc1a45595fb7696
+      internalID: -2124180531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0f96a10c8c4594dbc3ffa7da104ce5
+      internalID: -1591424774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3af19d5ede3ec14eadac7c1d3a1dab3
+      internalID: 1835250441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 224
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbb52ad31cb3bc4bb8c3302bd04881b
+      internalID: -925651146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 225
+        width: 55
+        height: 42
+      alignment: 9
+      pivot: {x: 0.3771275, y: 0.7303848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf4cb816393446479be38f187b2ecab
+      internalID: -1010833014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 224
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd55570cc0746849a9fd79fa12e8965
+      internalID: -1914016337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 224
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80aa1a663cfb2fc43a5e60938a13508e
+      internalID: 489304500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 226
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36edde3614d1ad541847083332cd4911
+      internalID: 101801696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 226
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561cacbecb2269c499f87d413323b9b8
+      internalID: 772885203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 259
+        width: 67
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706fae16af5ca5341ae87444922655bc
+      internalID: 5939509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 241
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea9b8c86ef62794f99e3f43b4d3f18b
+      internalID: 672706503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 229
+        width: 61
+        height: 47
+      alignment: 9
+      pivot: {x: 0.6636633, y: 1.3899121}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bc32f399899ba4184f930fcefef798
+      internalID: 1217721226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73836080b28bfe643ba04e59b395f80e
+      internalID: -940066164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dd759352416ae429aefcedf7057e6f
+      internalID: 602642878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 161
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe9447e2fc4a234f9455ee513496bbd
+      internalID: 376669614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 159
+        width: 62
+        height: 40
+      alignment: 9
+      pivot: {x: 0.3295288, y: 1.2607331}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef72200cafdd0c646add8075f450e96c
+      internalID: 1664370445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 162
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5843decca92760a44a6ab4b58d218aa2
+      internalID: 771907239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 161
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9835d10a487444e88f70e2d961321e
+      internalID: -307133883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 161
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f801fdede0caa9745b3062a3314355c5
+      internalID: 292779967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 163
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31318cb3a518b9d408823bdbfd9bd7fa
+      internalID: 463924970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 192
+        width: 61
+        height: 45
+      alignment: 9
+      pivot: {x: 0.55114216, y: 0.5298326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c243501aa3a6b46b20b131ca843c6d
+      internalID: 804695348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 176
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847f4d20d6d2aaf4faf05b575dc1cfcb
+      internalID: 379167363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 167
+        width: 66
+        height: 43
+      alignment: 9
+      pivot: {x: 0.60228235, y: 0.94749004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53fce6273163fc418b5c40643255c0b
+      internalID: 233572408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 381
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b408d1f1c36f34f9618a3f523d22ed
+      internalID: -2041923739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 92
+        width: 56
+        height: 52
+      alignment: 9
+      pivot: {x: 0.38493198, y: 0.54130626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ca131f212dce442a5cc177dd42f796
+      internalID: -1209580611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 96
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bce13cae7471d044b0147acfc35cb54
+      internalID: -875377887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 100
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a642257bb6445c41b1165c196a84eb3
+      internalID: -1710539984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 98
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67156a6790a60044b88e54c407a046d
+      internalID: -1431493036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 99
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ffaf3b69a51c246b30489ba7a4cc1b
+      internalID: -1339953657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 100
+        width: 67
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8022bac05ef834e983b4e6c6089df4
+      internalID: -1865394128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 127
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878b71cac3b995149bc17e7ed7ece013
+      internalID: -1602857100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 111
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c8491895dc1bc4481e8ddc4d73ec85
+      internalID: 54551972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 99
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4e79cbde1d7ce4587a20ffbf20c717
+      internalID: 79226948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 34
+        width: 58
+        height: 46
+      alignment: 9
+      pivot: {x: 1.0805595, y: -2.732659}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12506bab31ea9d46ad4f581afdcd892
+      internalID: -1812500436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5 Slime Sprite Sheets _-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375
+        width: 52
+        height: 25
+      alignment: 9
+      pivot: {x: -2.9697664, y: 1.9176489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a874cf96fdf794d4b9cf36b84bf2dfde
+      internalID: 191220494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      5 Slime Sprite Sheets _-Photoroom_0: 189496193
+      5 Slime Sprite Sheets _-Photoroom_1: 678847961
+      5 Slime Sprite Sheets _-Photoroom_10: -1437226930
+      5 Slime Sprite Sheets _-Photoroom_11: -1115473190
+      5 Slime Sprite Sheets _-Photoroom_12: 1262054333
+      5 Slime Sprite Sheets _-Photoroom_13: 1685676886
+      5 Slime Sprite Sheets _-Photoroom_14: 163556196
+      5 Slime Sprite Sheets _-Photoroom_15: 502540131
+      5 Slime Sprite Sheets _-Photoroom_16: 1498713695
+      5 Slime Sprite Sheets _-Photoroom_17: 184049392
+      5 Slime Sprite Sheets _-Photoroom_18: -2124180531
+      5 Slime Sprite Sheets _-Photoroom_19: -1591424774
+      5 Slime Sprite Sheets _-Photoroom_2: 1900422725
+      5 Slime Sprite Sheets _-Photoroom_20: 1835250441
+      5 Slime Sprite Sheets _-Photoroom_21: -925651146
+      5 Slime Sprite Sheets _-Photoroom_22: -1010833014
+      5 Slime Sprite Sheets _-Photoroom_23: -1914016337
+      5 Slime Sprite Sheets _-Photoroom_24: 489304500
+      5 Slime Sprite Sheets _-Photoroom_25: 101801696
+      5 Slime Sprite Sheets _-Photoroom_26: 772885203
+      5 Slime Sprite Sheets _-Photoroom_27: 5939509
+      5 Slime Sprite Sheets _-Photoroom_28: 672706503
+      5 Slime Sprite Sheets _-Photoroom_29: 1217721226
+      5 Slime Sprite Sheets _-Photoroom_3: 193820555
+      5 Slime Sprite Sheets _-Photoroom_30: -940066164
+      5 Slime Sprite Sheets _-Photoroom_31: 602642878
+      5 Slime Sprite Sheets _-Photoroom_32: 376669614
+      5 Slime Sprite Sheets _-Photoroom_33: 1664370445
+      5 Slime Sprite Sheets _-Photoroom_34: 771907239
+      5 Slime Sprite Sheets _-Photoroom_35: -307133883
+      5 Slime Sprite Sheets _-Photoroom_36: 292779967
+      5 Slime Sprite Sheets _-Photoroom_37: 463924970
+      5 Slime Sprite Sheets _-Photoroom_38: 804695348
+      5 Slime Sprite Sheets _-Photoroom_39: 379167363
+      5 Slime Sprite Sheets _-Photoroom_4: -31020663
+      5 Slime Sprite Sheets _-Photoroom_40: 233572408
+      5 Slime Sprite Sheets _-Photoroom_41: -2041923739
+      5 Slime Sprite Sheets _-Photoroom_42: -1209580611
+      5 Slime Sprite Sheets _-Photoroom_43: -875377887
+      5 Slime Sprite Sheets _-Photoroom_44: -1710539984
+      5 Slime Sprite Sheets _-Photoroom_45: -1431493036
+      5 Slime Sprite Sheets _-Photoroom_46: -1339953657
+      5 Slime Sprite Sheets _-Photoroom_47: -1865394128
+      5 Slime Sprite Sheets _-Photoroom_48: -1602857100
+      5 Slime Sprite Sheets _-Photoroom_49: 54551972
+      5 Slime Sprite Sheets _-Photoroom_5: 523620281
+      5 Slime Sprite Sheets _-Photoroom_50: 79226948
+      5 Slime Sprite Sheets _-Photoroom_51: -1812500436
+      5 Slime Sprite Sheets _-Photoroom_52: 191220494
+      5 Slime Sprite Sheets _-Photoroom_6: -934511607
+      5 Slime Sprite Sheets _-Photoroom_7: 1097590523
+      5 Slime Sprite Sheets _-Photoroom_8: 1426646728
+      5 Slime Sprite Sheets _-Photoroom_9: 505278857
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
